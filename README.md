@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou o João Victor Rodrigues Mota  
+#  Oi, eu sou o João Victor Rodrigues Mota  
 
 🎓 Estudante de **Engenharia de Software**  
 💻 Desenvolvedor **Front-End** (HTML, CSS, JavaScript, React, Bootstrap)  
