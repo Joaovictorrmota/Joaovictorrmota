@@ -1,8 +1,7 @@
 #  Oi, eu sou o João Victor Rodrigues Mota  
 
 🎓 Estudante de **Engenharia de Software**  
-💻 Desenvolvedor **Front-End** (HTML, CSS, JavaScript, React, Bootstrap)  
-📍 São Luís - MA  
+💻 Desenvolvedor **Front-End** (HTML, CSS, JavaScript, React, Bootstrap)   
 📧 Contato: joaovictorrodriguesmota2@gmail.com  
 
 ---
